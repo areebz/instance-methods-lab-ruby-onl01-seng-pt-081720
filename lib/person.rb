@@ -5,4 +5,4 @@ def talk
 end
  
 Areeba = Person.new
-fido.bark #> "Hello World!"
+Areeba.talk #> "Hello World!"
